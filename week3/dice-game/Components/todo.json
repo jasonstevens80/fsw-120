@@ -1,0 +1,43 @@
+[
+
+{
+
+  "title": "Excercie  Dog",
+
+  "description": "Take dog to dogpark",
+
+  "price": 0, 
+
+  "imgUrl": "https://assets.change.org/photos/7/ir/us/RKIRuspNfYlNucG-1600x900-noPad.jpg?1509364548",
+
+  "completed": false 
+
+
+},
+
+{
+
+    "title": "Get Gas",
+
+    "description": "Go to gas station",
+  
+    "price": 30, 
+  
+    "imgUrl": "http://southeastpetro.com/wp-content/uploads/2017/11/192-store-photo.jpg",
+  
+    "completed": false 
+},
+{
+
+    "title": "School Work",
+
+    "description": "Finish assignments",
+  
+    "price": 0, 
+  
+    "imgUrl": "http://www.friendshipcircle.org/blog/wp-content/uploads/2013/12/Child-Schoolwork.jpg",
+  
+    "completed": false 
+}
+
+]
