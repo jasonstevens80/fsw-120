@@ -1,0 +1,86 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  box-sizing: border-box;
+  background-color:black;
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+#navbar {
+  height: 100px;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  background-color: #ECECEC;
+  display: flex;
+  justify-content: space-between;
+  background-color:black
+}
+#twitterimg {
+  max-height: 100px;
+}
+#loginNav {
+  color: rgb(63, 211, 248);
+  font-weight: bold;
+  align-self: center;
+  padding: 15px;
+}
+#sideMenu {
+  margin-top: 110px;
+  width: 20%;
+  float: left;
+  position: fixed;
+}
+#avatar {
+  width: 78px;
+  border-radius: 10px;
+}
+#sideMenu li {
+  list-style: none;
+  padding: 5px;
+  color: rgb(52, 206, 245);
+}
+#username {
+  font-weight: bold;
+}
+#tweetContent {
+  width: 80%;
+  height: 200px;
+  border: 1px solid rgb(35, 223, 248);
+  
+}
+#tweetFrame {
+  margin-top: 115px;
+  width: 80%;
+  float: right;
+}
+
+.tweetBlock {
+  padding: 15px;
+  margin: 0px 10px;
+  border-bottom: 2px solid gray;
+}
+
+.handle {
+  color: rgb(39, 212, 243);
+}
+
+.content {
+  font-style: italic;
+  color:white
+}
+
+.deleteButton {
+  float: right;
+  margin: 10px;
+}
+#heart {
+  height: 25px;
+}
